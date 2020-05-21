@@ -1,6 +1,8 @@
 Python Package Development
 ==============
 
+## This is an old version of our Best Practices in Python Package Workshop - see the updated workshop [here](http://education.molssi.org/python-package-best-practices/)
+
 This repository contains lessons for the MolSSI Workshop "Best Practices in Python Package Development". To complete the lessons, navigate to the [lesson pages].
 
 This workshop is designed to take place in one day. At the end, all participants should have a repository on GitHub which implements [MolSSI's Best Practices] for a Python package. Depending on the level of students taking this course, all lessons may not be accomplished in one day. Workshops should cover at least lessons 1-6 (outlined below), with more potentially being added for more advanced groups.
